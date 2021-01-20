@@ -4,7 +4,7 @@
 
 .formcont{
     display: block;
-    width: 500px;
+    width: 50rem;
     position:relative; 
     margin-left: auto;
     margin-right: auto;
@@ -15,6 +15,7 @@
 
 .cont{
     margin-top: 2em;
+    min-height: 100vh;
     
     display: flex;
     flex-direction: column;
@@ -29,7 +30,8 @@ text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #49ff18, 0 0 3
 
 .buttonsub {
     margin: 10px;
-    font-family: "Arial Black", Gadget, sans-serif;
+    font-family: 'Lobster',
+    cursive;
     font-size: 20px;
     padding: 15px;
     text-align: center;
@@ -46,6 +48,7 @@ text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #49ff18, 0 0 3
     display: inline-block;
     border-radius: 25px;
     background-image: linear-gradient(to right, #7474BF 0%, #348AC7 51%, #7474BF 100%)
+    
 }
 
 .buttonsub:hover{

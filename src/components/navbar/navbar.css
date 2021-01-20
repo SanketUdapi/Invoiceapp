@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+.logo {
+    width: 25%;
+    font-family: 'Lobster', cursive;
+    text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 75px;
+    
+  }
+  
+  .nav-theme {
+    
+    background-color: transparent;
+    
+
+    font-size: 20px;
+  }
+  
+  .animate-navbar {
+    animation: moveDown 0.5s ease-in-out;
+    position: sticky;
+  }
+  
+  @keyframes moveDown {
+    from {
+      transform: translateY(-5rem);
+    }
+    to {
+      transform: translateY(0rem);
+    }
+  }
+
+.link{
+  color: #FFFFFF;
+
+text-shadow: #474747 3px 5px 2px;
+}

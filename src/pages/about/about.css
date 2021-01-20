@@ -1,0 +1,23 @@
+.container{
+    min-height: 100vh;
+}
+
+
+.jumbo{
+    display: block;
+    width: 70em;
+    position:relative; 
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+    margin-top: 10rem ;
+    box-shadow: 0 0 15px;
+    
+}
+
+@media screen and (max-width: 600px) {
+    .jumbo {
+        width: 300px;
+      
+    }
+  }

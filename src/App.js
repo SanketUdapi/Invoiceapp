@@ -13,7 +13,7 @@ function App() {
         <Route exact path='/form' component={Mainpage}></Route>
         <Route exact path='/invoices' component={Invoices}></Route>
         <Route exact path='/about' component={About}></Route>
-        <Route exact path="/github" render={() => (window.location = "https://goo.gl/maps/NLGHCTegAHQkVArM9")} />
+        <Route exact path="/github" render={() => (window.location = "https://github.com/SanketUdapi/Invoiceapp")} />
       </Switch>
     </Router>
   );

@@ -15,7 +15,7 @@ const About = () => {
                 <h1>About this App!</h1>
                 <p>
                     This is a simple React based Invoice application Incoice app this has no backend as of now all 
-                    of the data is static ,I have used React-Bootstrap for styli ng this app and React-router-dom for routing through pages, I will link the github repo below,
+                    of the data is static ,I have used React-Bootstrap for styling this app and React-router-dom for routing through pages,this app is completely responsive to all devices. I will link the github repo below,
                     Hope you like the app..
                 </p>
                 <Link to='/github' target="_blank">Github repo 

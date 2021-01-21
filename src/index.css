@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@200&display=swap');
 
+*{
+  box-sizing: border-box;
+}
+
 html {
   scroll-behavior: smooth;
   background: #b92b27;  /* fallback for old browsers */

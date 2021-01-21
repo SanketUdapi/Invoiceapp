@@ -50,7 +50,7 @@ export const pendingin=[
 export const Late = [
     {
         subject:'Equipent for food',
-        date:'12/2/2021',
+        date:'aea',
         text:'TOTAL : 4000/-',
         details:[
            ' Mixer =2000/-',

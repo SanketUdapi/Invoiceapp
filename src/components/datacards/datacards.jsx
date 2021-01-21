@@ -16,7 +16,7 @@ const Datacard = ({ heading, data,bg }) => {
                 <Card.Title>Invoice Subject : {datacard.subject}</Card.Title>
                 <Card.Subtitle className="mb-2 text-muted">status : Pending</Card.Subtitle>
                 <Card.Text>
-                {datacard.date}
+                Due Date : February 12 , 2021
                 </Card.Text>
                 <Card.Text>
                 {datacard.text}

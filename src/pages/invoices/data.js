@@ -3,7 +3,7 @@
 export const pendingin=[
     {
         subject:'Equipent for food',
-        date:'12/2/2021',
+        date:'March 12 ,2021',
         text:'TOTAL : 4000/-',
         details:[
            ' Mixer =2000/-',
@@ -14,7 +14,7 @@ export const pendingin=[
     },
     {
         subject:'Equipent for food',
-        date:'12/2/2021',
+        date:'March 12 ,2021',
         text:'TOTAL : 4000/-',
         details:[
            ' Mixer =2000/-',
@@ -24,7 +24,7 @@ export const pendingin=[
 
     },    {
         subject:'Equipent for food',
-        date:'12/2/2021',
+        date:'March 12 ,2021',
         text:'TOTAL : 4000/-',
         details:[
            ' Mixer =2000/-',
@@ -35,7 +35,7 @@ export const pendingin=[
     },
     {
         subject:'Equipent for food',
-        date:'12/2/2021',
+        date:'March 12 ,2021',
         text:'TOTAL : 4000/-',
         details:[
            ' Mixer =2000/-',
@@ -50,7 +50,7 @@ export const pendingin=[
 export const Late = [
     {
         subject:'Equipent for food',
-        date:'aea',
+        date:'January 12,2021',
         text:'TOTAL : 4000/-',
         details:[
            ' Mixer =2000/-',
@@ -61,7 +61,7 @@ export const Late = [
     },   
      {
         subject:'Equipent for food',
-        date:'12/2/2021',
+        date:'January 12 ,2021',
         text:'TOTAL : 4000/-',
         details:[
            ' Mixer =2000/-',
@@ -72,7 +72,7 @@ export const Late = [
     },
     {
         subject:'Equipent for food',
-        date:'12/2/2021',
+        date:'January 12 ,2021',
         text:'TOTAL : 4000/-',
         details:[
            ' Mixer =2000/-',
